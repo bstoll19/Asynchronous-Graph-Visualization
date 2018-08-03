@@ -48,6 +48,7 @@ Screenshots
 -----------
 
 - [Compressed Chip Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Compressed%20Chip%20Graph.png)
+- [Dot Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Dot%20Graph.png)
 
 Requirements
 ------------
