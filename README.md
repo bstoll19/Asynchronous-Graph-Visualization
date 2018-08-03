@@ -51,7 +51,7 @@ Screenshots
 - [Dot Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Dot%20Graph.png)
 - [Not Compressed Chip Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Not%20Compressed%20Chip%20Graph.png)
 - [Singular Node Chip Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Singular%20Node%20Chip%20Graph.png)
-- [Wave Graph]()
+- [Wave Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Wave%20Graph.png)
 
 Requirements
 ------------
