@@ -55,7 +55,7 @@ Requirements
 
 - [Python 3](https://www.python.org/download/)
 - [Graphviz](http://www.graphviz.org/Download.php)
-- [tkinter]
+- tkinter
 
 License
 -------
