@@ -47,8 +47,7 @@ Known Issues
 Screenshots
 -----------
 
-- #add screenshots
-- how to get into a link?
+- [Compressed Chip Graph](https://github.com/bstoll19/Asynchronous-Graph-Visualization/blob/master/Pictures/Compressed%20Chip%20Graph.png)
 
 Requirements
 ------------
