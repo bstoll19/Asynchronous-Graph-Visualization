@@ -64,3 +64,8 @@ License
 -------
 
 The project is licensed under the MIT license.
+
+Contributor
+-----------
+
+This project was completed by Brigid Stoll
